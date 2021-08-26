@@ -47,5 +47,5 @@ function tvOn() {
     tvEl.append(tvContent);
     bodyEl.append(tvEl);
     //tvEl.animate({width:"50%"},10000);
-    tvEl.animate({height: "50vh"}, 1000);
+    tvEl.animate({height: "50vh",paddingTop: "50px"}, 1000);
 }
