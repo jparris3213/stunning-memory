@@ -24,7 +24,7 @@ body {
     margin: 0 auto;
     width: 50%;
     animation: widenDiv .1s;
-    padding-top: 50px;
+    margin-top: 30px;
 }
 
 .card:hover {
