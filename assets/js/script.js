@@ -23,8 +23,7 @@ cardEl.on("click", function () {
     if (isBegin) {
         titleEl.text("Reset");
         cardEl.animate({
-            marginTop: "1%", 
-            //marginLeft: "90%"},
+            marginTop: "1%"},
             1000);
         tvOn();
         isBegin = !isBegin
